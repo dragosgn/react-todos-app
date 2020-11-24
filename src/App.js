@@ -34,6 +34,7 @@ function App() {
             </button>
           </div>
         </form>
+        I need to add local storage.
         <p className="todos-title">Todos:</p>
       </div>
     </>
